@@ -3,6 +3,8 @@
 This font becomes alphabet characters into symbols.
 ![screen-shot](assets/screenshot.png)
 
+Tags: Crypto, funny, animals, font, kids, school
+
 ## How to install?
 
 ### Windows
