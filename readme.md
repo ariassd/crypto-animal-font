@@ -17,6 +17,8 @@ Tags: Crypto, funny, animals, font, kids, school
 
 ## How to install?
 
+Download version you rather here 👉 [Versions](./dist)
+
 ### Windows
 
 1. Open the Windows Control Panel.
