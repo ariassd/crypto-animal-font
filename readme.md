@@ -1,7 +1,17 @@
+![](assets/ancient-egypt-banner.png)
+
 # Crypto animal font
 
+**BE LIKE A CRYPTOLOGIST!**
+
 This font becomes alphabet characters into symbols.
-![screen-shot](assets/screenshot.png)
+Easy to use and funny for kids and school projects.
+
+### Happy encoding!
+
+### Preview
+
+![screen-shot](assets/crypto-animal-font-preview.png)
 
 Tags: Crypto, funny, animals, font, kids, school
 
@@ -23,10 +33,12 @@ Double-click the font in the Finder, then click Install Font in the font preview
 ## Status
 
 Project is: _in progress_
+Thank you for using this font
 
 ## TODO
 
-- Add symbols for special characters
+- Add more symbols
+- Build a Spanish ordered version
 
 ## Stay in touch
 
