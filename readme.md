@@ -7,6 +7,8 @@
 This font becomes alphabet characters into symbols.
 Easy to use and funny for kids and school projects.
 
+The english ordered version uses animals matching the first letter of their name.
+
 ### Happy encoding!
 
 ### Preview
@@ -17,7 +19,7 @@ Tags: Crypto, funny, animals, font, kids, school
 
 ## How to install?
 
-Download version you rather here 👉 [Versions](./dist)
+Download versions here 👉 [Versions](./dist)
 
 ### Windows
 
@@ -31,6 +33,9 @@ Download version you rather here 👉 [Versions](./dist)
 ### Mac OSX
 
 Double-click the font in the Finder, then click Install Font in the font preview window that opens. After your Mac validates the font and opens the Font Book app, the font is installed and available for use.
+
+### Linux
+In your file manager double-click the font, then click Install in the font preview window that opens. You need to close all instances of e.g. libre office and reopen them, to see the new font.
 
 ## Status
 
