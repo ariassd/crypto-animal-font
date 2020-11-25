@@ -7,6 +7,8 @@
 This font becomes alphabet characters into symbols.
 Easy to use and funny for kids and school projects.
 
+The english ordered version uses animals matching the first letter of their name.
+
 ### Happy encoding!
 
 ### Preview
@@ -17,7 +19,7 @@ Tags: Crypto, funny, animals, font, kids, school
 
 ## How to install?
 
-Download version you rather here 👉 [Versions](./dist)
+Download versions here 👉 [Versions](./dist)
 
 ### Windows
 
